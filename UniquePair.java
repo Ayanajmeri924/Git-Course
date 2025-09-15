@@ -25,7 +25,7 @@ public class UniquePair {
                     if(!s.contains(pair)){
                         c++;
                         s.add(pair);
-                        System.out.println(pair);
+                        System.out.println(pair);//unique matches
                     }
                 }                
             }
