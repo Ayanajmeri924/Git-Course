@@ -9,7 +9,7 @@ public class sumofdigit {
         add(n/10);
     }
     public static void main(String[] args) {
-        int n=12345;
+        int n=Integer.parseInt(args[0]);
         add(n);
         System.out.println(sum);
     }
