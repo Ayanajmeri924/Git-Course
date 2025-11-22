@@ -71,5 +71,5 @@ public class CustomArrayList {
         }
         System.out.println("\nSize = "+arr.size());
         System.out.println(arr);
-    }
+    }w
 }
