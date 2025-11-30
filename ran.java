@@ -48,6 +48,8 @@ public class ran {
         user.setUserChoice("head");
         System.out.println(user.getName()+" "+user.getUserChoice());
         user.decision(user.getUserChoice());
+        int nums[]={1,2};
+        System.out.println(nums.length);
 
     }
 }
