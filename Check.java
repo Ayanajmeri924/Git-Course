@@ -35,5 +35,6 @@ public class Check {
     public static void main(String[] args) {
         int nums[]={12,21,45,33,54};
         System.out.println(checking(nums));
+        
     }
 }
