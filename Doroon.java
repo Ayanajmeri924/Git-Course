@@ -19,7 +19,6 @@ public class Doroon {
         int []delay={200, 180, 210, 24, 170, 200, 200, 170, 230,250};
 
 
-        // System.out.println("Pal Pal :\n ");
         System.out.println("Dooron Doroon :\n ");
         Thread.sleep(1500);
         for(int i=0;i<lyrics.length;i++){
@@ -45,7 +44,6 @@ public class Doroon {
         } catch (Exception e) {
             e.getMessage();
         }
-        // return lyrics;
     }
     public static void main(String[] args) throws InterruptedException {
         dooron();
