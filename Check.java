@@ -30,6 +30,7 @@ public class Check {
                 return Math.abs((i-1)-i);
             }
         }
+        
         return -1;
     }
     public static void main(String[] args) {
