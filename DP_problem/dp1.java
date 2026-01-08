@@ -2,6 +2,8 @@ package DP_problem;
 
 public class dp1 {
     public static void main(String[] args) {
+
+        //Problem: Longest common subsequence(LeetCode problem)
         String s1="ayana";
         String s2="sohana";
 
@@ -27,7 +29,7 @@ public class dp1 {
 
 
         System.out.println(dp[m][n]);
-        System.out.println(sb);
+        // System.out.println(sb);
 
 
     }
