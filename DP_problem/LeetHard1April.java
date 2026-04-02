@@ -46,7 +46,8 @@ public class LeetHard1April {
                     d.remove(i+1);
                     h.remove(i);
                     d.remove(i);
-                }
+                } 
+                
                 // int damage=Math.min(h.get(i), h.get(i+1));
 
                 // h.set(i,h.get(i)-damage);
