@@ -9,6 +9,6 @@ public class LeetWaterBottle {
             total+=drink;
             n=n/b + left;
         }
-        System.out.println(total);
+        System.out.println(total); 
     }
 }
