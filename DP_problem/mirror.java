@@ -54,7 +54,7 @@ public class mirror {
             }
 
             int freqC = freq.getOrDefault(ch, 0);
-            int freqM = freq.getOrDefault(mirror, 0);
+            int freqM = freq.getOrDefault(mirror, 0);  
 
             result += Math.abs(freqC - freqM);
 
