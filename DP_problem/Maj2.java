@@ -26,7 +26,7 @@ public class Maj2 {
 
         System.out.println(0%2==0);
         PriorityQueue<Integer> pq=new PriorityQueue<>();
-        pq.add(10);
+        pq.add(10); 
         
     }
 }
